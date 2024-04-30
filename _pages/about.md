@@ -17,6 +17,9 @@ Many people use a git client to create files on their local computer and then pu
 
 Selected publications
 ======
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
 1. [An optimized proteomics approach reveals novel alternative proteins in mouse liver development.](https://pubmed.ncbi.nlm.nih.gov/36494044/) Mol Cell Proteomics. 2023 Jan;22(1):100480.
 1. [RiboChat: a chat-style web interface for analysis and annotation of ribosome profiling data.](https://pubmed.ncbi.nlm.nih.gov/35043169/) Brief Bioinform. 2022 Mar 10;23(2):bbab559.
 1. [riboCIRC: a comprehensive database of translatable circRNAs.](https://pubmed.ncbi.nlm.nih.gov/33685493/) Genome Biol. 2021 Mar 8;22(1):79.
