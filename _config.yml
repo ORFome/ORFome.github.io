@@ -19,9 +19,9 @@ author:
   # Biographic information
   avatar           : "hongweiwang.jpg"
   name             : "Hongwei Wang(王宏伟)"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Bioinformatics"
   location         : "Guangzhou, China"
-  employer         : "Zhongshan Ophthalmic Center, Sun Yat-Sen University"
+  employer         : "Sun Yat-Sen University"
   uri              : # URL
   email            : "wanghw26@mail.sysu.edu.cn" 
 
