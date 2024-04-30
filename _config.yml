@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hongwei Wang@SYSU-ZOC"
+title                    : "@SYSU-ZOC"
 url                      : "https://orfome.github.io/"
 
 
@@ -19,11 +19,10 @@ author:
   # Biographic information
   avatar           : "hongweiwang.jpg"
   name             : "Hongwei Wang(王宏伟)"
-  bio              : "Bioinformatics"
+  bio              : "wanghw26@mail.sysu.edu.cn"
   location         : "Guangzhou, China"
   employer         : "Sun Yat-Sen University"
-  uri              : # URL
-  email            : "wanghw26@mail.sysu.edu.cn" 
+
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=zrX4TcQAAAAJ&hl=en"
