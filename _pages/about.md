@@ -17,9 +17,6 @@ Many people use a git client to create files on their local computer and then pu
 
 Selected publications
 ======
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 1. [An optimized proteomics approach reveals novel alternative proteins in mouse liver development.](https://pubmed.ncbi.nlm.nih.gov/36494044/) Mol Cell Proteomics. 2023 Jan;22(1):100480.
 1. [RiboChat: a chat-style web interface for analysis and annotation of ribosome profiling data.](https://pubmed.ncbi.nlm.nih.gov/35043169/) Brief Bioinform. 2022 Mar 10;23(2):bbab559.
 1. [riboCIRC: a comprehensive database of translatable circRNAs.](https://pubmed.ncbi.nlm.nih.gov/33685493/) Genome Biol. 2021 Mar 8;22(1):79.
@@ -28,3 +25,5 @@ Selected publications
 1. [Computational resources for ribosome profiling: from database to Web server and software.](https://pubmed.ncbi.nlm.nih.gov/28968766/) Brief Bioinform. 2019 Jan 18;20(1):144-155.
 1. [RPFdb v2. 0: an updated database for genome-wide information of translated mRNA generated from ribosome profiling.](https://pubmed.ncbi.nlm.nih.gov/30335166/) Nucleic Acids Res. 2019 Jan 8;47(D1):D230-D234.
 1. [Global and cell-type specific properties of lincRNAs with ribosome occupancy.](https://pubmed.ncbi.nlm.nih.gov/27738133/) Nucleic Acids Res. 2017 Mar 17;45(5):2786-2796.   
+
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
