@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV - Hongwei wang"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 
 Education and Training
 ======
-* 2015-2017: Postdoc Fellow in Basic Medicine @Xie Lab, Harbin Medical University
+* 2015-2017: Postdoc Fellow in Basic Medicine @Xie Lab, Sun Yat-sen University
 * 2009-2014: Ph.D in Biophysics @GuoZheng Lab, Harbin Medical University
 * 2004-2009: B.S. in Biotechnology(Bioinformatics), Harbin Medical University
 
@@ -47,6 +47,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Fundings
 ======
 * Currently signed in to 43 different slack teams
