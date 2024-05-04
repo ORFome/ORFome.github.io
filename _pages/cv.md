@@ -1,4 +1,4 @@
----
+![image](https://github.com/ORFome/ORFome.github.io/assets/168516543/3d88b1f3-af2f-46ad-a530-da1d06ac5cf5)---
 layout: archive
 title: "CV - Hongwei wang"
 permalink: /cv/
@@ -32,12 +32,12 @@ Research interests
 Publications
 ======
  <div class="wordwrap">Please refer to the full list of publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-  
-Talks
+
+Fundings
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-======
-* Currently signed in to 43 different slack teams
+* National Natural Science Foundation of China(32270700)
+* Guangdong Basic and Applied Basic Research Foundation(#)
+* Guangzhou Science and Technology Program(2024A03J0158)
+* Fundamental Research Funds for the Central Universities, Sun Yat-sen University(23qnpy163)
+* China Postdoctoral Science Foundation(2015M582459)
+
