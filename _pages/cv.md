@@ -9,37 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education and Training
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2015-2017: Postdoc Fellow in Basic Medicine @Xie Lab, Harbin Medical University
+* 2009-2014: Ph.D in Biophysics @GuoZheng Lab, Harbin Medical University
+* 2004-2009: B.S. in Biotechnology(Bioinformatics), Harbin Medical University
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017-Now: Associate Professor
+  * Zhongshan Ophthalmic Center, Sun Yat-sen University
+  * Duties includes: Research, Teaching, and Mentoring
   
-Skills
+Research interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Translation and Translational Regulation
+  * Identification of Non-Canonical ORFs
+  * Characterization of Non-Canonical ORFs
+  * Functional Analysis of Non-Canonical ORFs
+* Non-canonical Neoantigens
 
 Publications
 ======
