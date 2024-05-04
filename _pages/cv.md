@@ -1,4 +1,3 @@
-![image](https://github.com/ORFome/ORFome.github.io/assets/168516543/3d88b1f3-af2f-46ad-a530-da1d06ac5cf5)---
 layout: archive
 title: "CV - Hongwei wang"
 permalink: /cv/
