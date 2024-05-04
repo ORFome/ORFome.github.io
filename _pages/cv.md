@@ -10,15 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Hongwei wang(王宏伟)
-Associate Professor
-
-State Key Laboratory of Ophthalmology
-
-Zhongshan Ophthalmic Center, Sun Yat-sen University
-
-Guangzhou, 510060, China
-
-wanghw26@mail.sysu.edu.cn or bioccwhw@126.com
+Associate Professor<br/>State Key Laboratory of Ophthalmology<br/>Zhongshan Ophthalmic Center<br/>Sun Yat-sen University<br/>Guangzhou, 510060, China<br/>wanghw26@mail.sysu.edu.cn or bioccwhw@126.com
 
 
 Education and Training
