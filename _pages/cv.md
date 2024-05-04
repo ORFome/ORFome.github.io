@@ -31,9 +31,7 @@ Research interests
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ <div class="wordwrap">Please refer to the full list of publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
   
 Talks
 ======
@@ -41,12 +39,5 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Fundings
 ======
 * Currently signed in to 43 different slack teams
