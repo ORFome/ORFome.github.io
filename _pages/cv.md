@@ -31,7 +31,7 @@ Research interests
 
 Publications
 ======
- <div class="wordwrap">Please refer to the full list of publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+Please refer to the full list of publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
 
 Grants and Funding
 ======
