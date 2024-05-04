@@ -33,7 +33,7 @@ Publications
 ======
  <div class="wordwrap">Please refer to the full list of publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 
-Fundings
+Grants and Funding
 ======
 * National Natural Science Foundation of China(32270700)
 * Guangdong Basic and Applied Basic Research Foundation(#)
