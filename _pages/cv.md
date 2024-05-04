@@ -1,3 +1,4 @@
+---
 layout: archive
 title: "CV - Hongwei wang"
 permalink: /cv/
