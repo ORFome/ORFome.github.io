@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Hongwei wang(王宏伟)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,13 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Associate Professor
-State Key Laboratory of Ophthalmology
-Zhongshan Ophthalmic Center
-Sun Yat-sen University
-Guangzhou, 510060, China
-wanghw26@mail.sysu.edu.cn
-bioccwhw@126.com
+* Hongwei wang(王宏伟)
+* Associate Professor
+* State Key Laboratory of Ophthalmology
+* Zhongshan Ophthalmic Center
+* Sun Yat-sen University
+* Guangzhou, 510060, China
+* wanghw26@mail.sysu.edu.cn
+* bioccwhw@126.com
 
 Education and Training
 ======
@@ -39,7 +40,7 @@ Research interests
 
 Publications
 ======
-  Please refer to the full list of publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
+Please refer to the full list of publications on <a href="{{site.author.googlescholar}}">my GoogleScholar profile</a>.
 
 Grants and Funding
 ======
