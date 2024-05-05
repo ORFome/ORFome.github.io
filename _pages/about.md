@@ -19,8 +19,9 @@ My research
 
 Selected publications
 ======
-1. [An optimized proteomics approach reveals novel alternative proteins in mouse liver development.](https://pubmed.ncbi.nlm.nih.gov/36494044/) Mol Cell Proteomics. 2023 Jan;22(1):100480.
-1. [RiboChat: a chat-style web interface for analysis and annotation of ribosome profiling data.](https://pubmed.ncbi.nlm.nih.gov/35043169/) Brief Bioinform. 2022 Mar 10;23(2):bbab559.
+(^indicates (co-) first author,§ indicates (co-)corresponding author )
+1. Yang Y^, **Wang HW^**, Zhang YL, Chen L, Chen GN, Bao ZS, Yang Y, Xie Z, and Zhao Q§. An optimized proteomics approach reveals novel alternative proteins in mouse liver development. [Mol Cell Proteomics](https://pubmed.ncbi.nlm.nih.gov/36494044/). 2023 Jan;22(1):100480.
+1. Xie MZ^, Yang LD^, Chen GN^, Wang Y, Xie Z§, **Wang HW§**. RiboChat: a chat-style web interface for analysis and annotation of ribosome profiling data. [Brief Bioinform](https://pubmed.ncbi.nlm.nih.gov/35043169/). 2022 Mar 10;23(2):bbab559.
 1. [riboCIRC: a comprehensive database of translatable circRNAs.](https://pubmed.ncbi.nlm.nih.gov/33685493/) Genome Biol. 2021 Mar 8;22(1):79.
 1. [Widespread translational control regulates retinal development in mouse.](https://pubmed.ncbi.nlm.nih.gov/34469513/) Nucleic Acids Res. 2021 Sep 27;49(17):9648-9664.
 1. [Tissue-and stage-specific landscape of the mouse translatome.](https://pubmed.ncbi.nlm.nih.gov/34107020/) Nucleic Acids Res. 2021 Jun 21;49(11):6165-6180.
