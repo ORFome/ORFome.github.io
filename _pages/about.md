@@ -15,9 +15,8 @@ My research
 Systematic identification, characterization, and functional analysis of non-canonical open reading frames (ORFs), including uORFs, dORFs, lncORFs, circORFs and others.
 
 **(2) Exploring the landscape of neoantigens and their applications**<br/>
-markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-![Editing a markdown file for a talk](/images/research.png)
+*Unlocking the source of cryptic neoantigens through translation of non-canonical ORFs
+*Developing efficient approaches to identify and characterize immunogenic neoantigens
 
 Selected publications
 ======
