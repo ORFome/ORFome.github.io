@@ -26,7 +26,7 @@ author_profile: true
 
 1. Chen KN<sup>‡</sup>, Chen CY<sup>‡</sup>, Li HH, Yang JQ, Xiang MQ, **Wang HW<sup>§</sup>**, Xie Z<sup>§</sup>. _Widespread translational control regulates retinal development in mouse_. [Nucleic Acids Research](https://pubmed.ncbi.nlm.nih.gov/34469513/). 2021 Sep 27;49(17):9648-9664. (IF=14.9, JCR Q1, 中科院大类2区小类2区)
 
-1. Chen L, Zhang YL, Yang Y, Yang Y, Li HH, Dong X, **Wang HW**, Xie Z, Zhao Q<sup>§</sup>, Chen CY<sup>‡</sup>, Li HH, Yang JQ, Xiang MQ, **Wang HW<sup>§</sup>**, Xie Z<sup>§</sup>. _An integrated approach for discovering noncanonical MHC-I peptides encoded by small open reading frames_. [J Am Soc Mass Spectrom](https://pubmed.ncbi.nlm.nih.gov/34260243/). 2021 Sep 1;32(9):2346-2357. (IF=3.2, JCR Q2, 中科院大类2区小类2区)
+1. Chen L, Zhang YL, Yang Y, Yang Y, Li HH, Dong X, **Wang HW**, Xie Z, Zhao Q<sup>§</sup>. _An integrated approach for discovering noncanonical MHC-I peptides encoded by small open reading frames_. [J Am Soc Mass Spectrom](https://pubmed.ncbi.nlm.nih.gov/34260243/). 2021 Sep 1;32(9):2346-2357. (IF=3.2, JCR Q2, 中科院大类2区小类2区)
 
 1. Li HH<sup>‡</sup>, Xie MZ<sup>‡</sup>, Yan Wang<sup>‡</sup>, Yang LD, Xie Z<sup>§</sup>, **Wang HW<sup>§</sup>**. _riboCIRC: a comprehensive database of translatable circRNAs_. [Genome Biology](https://pubmed.ncbi.nlm.nih.gov/33685493/). 2021 Mar 8;22(1):79. (IF=12.3, JCR Q1, 中科院大类1区小类1区)
 
