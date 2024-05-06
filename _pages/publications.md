@@ -7,9 +7,7 @@ author_profile: true
 
 
 <div class="wordwrap">A full list of publications can be found at <a href="{{site.author.googlescholar}}">my GoogleScholar profile</a>.</div>
-</div>
 
-======
 (‡ indicates (co-) first author, § indicates (co-)corresponding author )
 
 1. Yang Y<sup>‡</sup>, **Wang HW<sup>‡</sup>**, Zhang YL, Chen L, Chen GN, Bao ZS, Yang Y, Xie Z, and Zhao Q<sup>§</sup>. _An optimized proteomics approach reveals novel alternative proteins in mouse liver development_. [Mol Cell Proteomics](https://pubmed.ncbi.nlm.nih.gov/36494044/). 2023 Jan;22(1):100480.
