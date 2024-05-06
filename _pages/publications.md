@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my GoogleScholar profile</a>.</div>
+<div class="wordwrap">A full list of publications can be found at <a href="{{site.author.googlescholar}}">my GoogleScholar profile</a>.</div>
 </div>
 
 ======
