@@ -58,7 +58,7 @@ author_profile: true
 
 1. Jin NN<sup>‡</sup>, Wu H<sup>‡</sup>, Miao ZQ<sup>‡</sup>, Huang Y<sup>‡</sup>, Hu YF, Bi XM, Wu D, Qian K, Wang LQ, Wang CL, **Wang HW<sup>§</sup>**, Li KN<sup>§</sup>, Li X<sup>§</sup>, Wang D<sup>§</sup>. _Network-based survival-associated module biomarker and its crosstalk with cell death genes in ovarian cancer_. [Scientific Reports](https://pubmed.ncbi.nlm.nih.gov/26099452/). 2015 Jun 23:5:11566. (IF=4.6, JCR Q2, 中科院大类2区小类2区)
 
-1. **Wang HW**, Sun Q, Zhao WY, Qi LS, Gu YY, Li PF, Zhang MM, Li Y, Liu SL<sup>§</sup>, Guo Z<sup>§</sup>. _Individual-level analysis of differential expression of genes and pathways for personalized medicine_. [Bioinformatics](https://pubmed.ncbi.nlm.nih.gov/26099452/). 2015 Jan 1;31(1):62-8. (IF=5.8, JCR Q1, 中科院大类3区小类2区)
+1. **Wang HW**, Sun Q, Zhao WY, Qi LS, Gu YY, Li PF, Zhang MM, Li Y, Liu SL<sup>§</sup>, Guo Z<sup>§</sup>. _Individual-level analysis of differential expression of genes and pathways for personalized medicine_. [Bioinformatics](https://pubmed.ncbi.nlm.nih.gov/25165092/). 2015 Jan 1;31(1):62-8. (IF=5.8, JCR Q1, 中科院大类3区小类2区)
 
 1. Qi LS, Li BL, Dong Y, Xu H, Chen LB, **Wang HW**, Li PF, Zhao WY, Gu YY, Wang CG<sup>§</sup>, Guo Z<sup>§</sup>. _Deconvolution of the gene expression profiles of valuable banked blood specimens for studying the prognostic values of altered peripheral immune cell proportions in cancer patients_. [PLoS One](https://pubmed.ncbi.nlm.nih.gov/24959668/). 2014 Jun 24;9(6):e100934. (IF=3.7, JCR Q2, 中科院大类3区小类3区)
 
