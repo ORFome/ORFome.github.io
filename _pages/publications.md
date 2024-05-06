@@ -10,7 +10,7 @@ author_profile: true
 
 (‡ indicates (co-) first author, § indicates (co-)corresponding author )
 
-1. Yang Y<sup>‡</sup>, **Wang HW<sup>‡</sup>**, Zhang YL, Chen L, Chen GN, Bao ZS, Yang Y, Xie Z, and Zhao Q<sup>§</sup>. _An optimized proteomics approach reveals novel alternative proteins in mouse liver development_. [Molecular & Cellular Proteomics](https://pubmed.ncbi.nlm.nih.gov/36494044/). 2023 Jan;22(1):100480. (IF<sub>2023</sub=7, JCR Q1, 中科院大类二区小类一区)
+1. Yang Y<sup>‡</sup>, **Wang HW<sup>‡</sup>**, Zhang YL, Chen L, Chen GN, Bao ZS, Yang Y, Xie Z, and Zhao Q<sup>§</sup>. _An optimized proteomics approach reveals novel alternative proteins in mouse liver development_. [Molecular & Cellular Proteomics](https://pubmed.ncbi.nlm.nih.gov/36494044/). 2023 Jan;22(1):100480. (IF<sub>2023 =7, JCR Q1, 中科院大类二区小类一区)
 1. Xie MZ<sup>‡</sup>, Yang LD<sup>‡</sup>, Chen GN<sup>‡</sup>, Wang Y, Xie Z<sup>§</sup>, **Wang HW<sup>§</sup>**. _RiboChat: a chat-style web interface for analysis and annotation of ribosome profiling data_. [Brief Bioinform](https://pubmed.ncbi.nlm.nih.gov/35043169/). 2022 Mar 10;23(2):bbab559.
 1. Li HH<sup>‡</sup>, Xie MZ<sup>‡</sup>, Yan Wang<sup>‡</sup>, Yang LD, Xie Z<sup>§</sup>, **Wang HW<sup>§</sup>**. _riboCIRC: a comprehensive database of translatable circRNAs_. [Genome Biology](https://pubmed.ncbi.nlm.nih.gov/33685493/). 2021 Mar 8;22(1):79.
 1. Chen KN<sup>‡</sup>, Chen CY<sup>‡</sup>, Li HH, Yang JQ, Xiang MQ, **Wang HW<sup>§</sup>**, Xie Z<sup>§</sup>. _Widespread translational control regulates retinal development in mouse_. [Nucleic Acids Res](https://pubmed.ncbi.nlm.nih.gov/34469513/). 2021 Sep 27;49(17):9648-9664.
