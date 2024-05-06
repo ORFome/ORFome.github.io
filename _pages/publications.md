@@ -50,7 +50,7 @@ author_profile: true
 
 1. Peng FD, Zhang Y, Wang R, Zhou W, Zhao Z, Liang HH, Qi LS, Zhao WY, **Wang HW**, Wang CG, Guo Z<sup>§</sup>, Gu YY<sup>§</sup>. _Identification of differentially expressed miRNAs in individual breast cancer patient and application in personalized medicine_. [Oncogenesis](https://pubmed.ncbi.nlm.nih.gov/26878388/). 2016 Feb 15;5(2):e194. (IF=6.2, JCR Q1, 中科院大类2区小类2区)
 
-1. **Wang HW**, Cai H, Ao L, Yan HD, Zhao WY, Qi LS, Gu YY, Guo Z<sup>§</sup>. _Individualized identification of disease-associated pathways with disrupted coordination of gene expression_. [Bioinformatics](https://pubmed.ncbi.nlm.nih.gov/26023086/). 2016 Jan;17(1):78-87. (IF=9.5, JCR Q1, 中科院大类2区小类1区)
+1. **Wang HW**, Cai H, Ao L, Yan HD, Zhao WY, Qi LS, Gu YY, Guo Z<sup>§</sup>. _Individualized identification of disease-associated pathways with disrupted coordination of gene expression_. [Briefings in Bioinformatics](https://pubmed.ncbi.nlm.nih.gov/26023086/). 2016 Jan;17(1):78-87. (IF=9.5, JCR Q1, 中科院大类2区小类1区)
 
 1. Xie SQ<sup>‡</sup>, Nie P<sup>‡</sup>, Wang Y<sup>‡</sup>, **Wang HW**, Li HY, Yang ZL, Liu YZ<sup>§</sup>, Ren J<sup>§</sup>, Xie Z<sup>§</sup>. _RPFdb: a database for genome wide information of translated mRNA generated from ribosome profiling_. [Nucleic Acids Research](https://pubmed.ncbi.nlm.nih.gov/27738133/). 2016 Jan 4;44(D1):D254-8. (IF=14.9, JCR Q1, 中科院大类2区小类2区)
 
@@ -66,10 +66,11 @@ author_profile: true
 
 1. Zhao WY, Qi LS, Qin Y, **Wang HW**, Chen BB, Wang RP, Gu YY, Liu CY, Wang CG<sup>§</sup>, Guo Z<sup>§</sup>. _Functional comparison between genes dysregulated in ulcerative colitis and colorectal carcinoma_. [PLoS One](https://pubmed.ncbi.nlm.nih.gov/23991021/). 2013 Aug 22;8(8):e71989. (IF=3.7, JCR Q2, 中科院大类3区小类3区)
 
+1. Gu YY<sup>§</sup>, **Wang HW**, Qin Y, Zhang YJ, Zhao WY, Qi LS, Zhang YN, Wang CG, Guo Z<sup>§</sup>. _Network analysis of genomic alteration profiles reveals co-altered functional modules and driver genes for glioblastoma_. [Molecular BioSystems](https://pubmed.ncbi.nlm.nih.gov/23344900/). 2013 Mar;9(3):467-77. (IF=2.9, JCR Q3, 中科院大类4区小类4区)
 
+1. Wang D, Cheng LX, Zhang YN, Wu RH, Wang MY, Gu YY, Zhao WY, Li PF, Li B, Zhang YJ, **Wang HW**, Huang Y, Wang CG, Guo Z<sup>§</sup>. _Extensive up-regulation of gene expression in cancer: the normalised use of microarray data_. [Molecular BioSystems](https://pubmed.ncbi.nlm.nih.gov/22234555/). 2012 Mar;8(3):818-27. (IF=2.9, JCR Q3, 中科院大类4区小类4区)
 
-
-
+1. Gong X<sup>§</sup>, Wu RH<sup>§</sup>, **Wang HW**, Guo XW, Wang D, Gu YY, Zhang YN, Zhao WY, Cheng LX, Wang CG<sup>§</sup>, Guo Z<sup>§</sup>. _Evaluating the consistency of differential expression of microRNA detected in human cancers_. [Molecular Cancer Therapeutics](https://pubmed.ncbi.nlm.nih.gov/21398424/). 2011 May;10(5):752-60. (IF=5.7, JCR Q2, 中科院大类2区小类2区)
 
 
 
