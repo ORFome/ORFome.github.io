@@ -10,6 +10,7 @@ author_profile: true
 
 (‡ indicates (co-) first author, § indicates (co-)corresponding author )
 
+## 2017-Now
 
 1. Yang LD<sup>‡</sup>, Yi L<sup>‡</sup>, Yang JQ, Zhang R, Xie Z<sup>§</sup>, **Wang HW<sup>§</sup>**. _Temporal landscape and translational regulation of A-to-I RNA editing in mouse retina development_. [BMC Biology](https://pubmed.ncbi.nlm.nih.gov/). 2024;doi:10.1186/s12915-024-01908-y.(in press) (IF=5.4, JCR Q1, 中科院大类1区小类1区)
 
@@ -41,6 +42,10 @@ author_profile: true
 
 1. **Wang HW<sup>‡,§</sup>**, Wang Y<sup>‡</sup>, Xie SQ, Liu YZ, Xie Z<sup>§</sup>. _Global and cell-type specific properties of lincRNAs with ribosome occupancy_. [Nucleic Acids Research](https://pubmed.ncbi.nlm.nih.gov/27738133/). 2017 Mar 17;45(5):2786-2796. (IF=14.9, JCR Q1, 中科院大类2区小类2区)
 
+## Before 2017
+
 1. Xie SQ<sup>‡</sup>, Nie P<sup>‡</sup>, Wang Y<sup>‡</sup>, **Wang HW**, Li HY, Yang ZL, Liu YZ<sup>§</sup>, Ren J<sup>§</sup>, Xie Z<sup>§</sup>. _RPFdb: a database for genome wide information of translated mRNA generated from ribosome profiling_. [Nucleic Acids Research](https://pubmed.ncbi.nlm.nih.gov/27738133/). 2016 Jan 4;44(D1):D254-8. (IF=14.9, JCR Q1, 中科院大类2区小类2区)
+
+
 
 
