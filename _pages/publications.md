@@ -6,10 +6,9 @@ author_profile: true
 ---
 
 
-<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my GoogleScholar profile</a>.</div>
+</div>
 
-
-Journal articles
 ======
 (‡ indicates (co-) first author, § indicates (co-)corresponding author )
 
