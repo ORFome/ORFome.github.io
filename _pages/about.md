@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository]
+I currently hold the position of Associate Professor of Bioinformatics at Zhongshan Ophthalmic Center, Sun Yat-sen University. My academic journey includes obtaining a Ph.D. in Biophysics from the College of Bioinformatics Science and Technology at Harbin Medical University. Following this, I completed a two-year postdoctoral fellowship at Zhongshan Ophthalmic Center. Subsequently, I transitioned to the role of Associate Professor funded by the Hundred Talent Program at Sun Yat-sen University.
+
 
 My research 
 ======
@@ -16,6 +17,7 @@ My research
 
 **(2) Exploring the landscape of neoantigens and their applications**<br/>
 [Developing efficient approaches to identify and characterize immunogenic neoantigens, and unlocking the source of cryptic neoantigens through translation of non-canonical ORFs.]()
+
 
 Selected publications
 ======
