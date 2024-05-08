@@ -29,6 +29,4 @@ Selected publications
 1. **Wang HW<sup>‡,§</sup>**, Yan Wang<sup>‡</sup>, Yang JQ<sup>‡</sup>, Zhao Q<sup>‡</sup>, Tang N, Chen CY, Li HH, Cheng CC, Xie MZ, Xie Z<sup>§</sup>. _Tissue-and stage-specific landscape of the mouse translatome_. [Nucleic Acids Res](https://pubmed.ncbi.nlm.nih.gov/34107020/). 2021 Jun 21;49(11):6165-6180.
 1. **Wang HW<sup>‡,§</sup>**, Yan Wang<sup>‡</sup>, Xie Z<sup>§</sup>. _Computational resources for ribosome profiling: from database to Web server and software_. [Brief Bioinform](https://pubmed.ncbi.nlm.nih.gov/28968766/) . 2019 Jan 18;20(1):144-155.
 1. **Wang HW<sup>‡,§</sup>**, Yang LD<sup>‡</sup>, Yan Wang<sup>‡</sup>, Chen LS<sup>‡</sup>, Li HH, Xie Z<sup>§</sup>. _RPFdb v2. 0: an updated database for genome-wide information of translated mRNA generated from ribosome profiling_. [Nucleic Acids Res](https://pubmed.ncbi.nlm.nih.gov/30335166/). 2019 Jan 8;47(D1):D230-D234.
-1. **Wang HW<sup>‡,§</sup>**, Yan Wang<sup>‡</sup>, Xie SQ, Liu YZ, Xie Z<sup>§</sup>. _Global and cell-type specific properties of lincRNAs with ribosome occupancy_. [Nucleic Acids Res](https://pubmed.ncbi.nlm.nih.gov/27738133/). 2017 Mar 17;45(5):2786-2796.   
-
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+1. **Wang HW<sup>‡,§</sup>**, Yan Wang<sup>‡</sup>, Xie SQ, Liu YZ, Xie Z<sup>§</sup>. _Global and cell-type specific properties of lincRNAs with ribosome occupancy_. [Nucleic Acids Res](https://pubmed.ncbi.nlm.nih.gov/27738133/). 2017 Mar 17;45(5):2786-2796.
