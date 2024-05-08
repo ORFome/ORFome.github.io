@@ -12,7 +12,7 @@ author_profile: true
 
 ## 2017-Now
 
-1. Yang LD<sup>‡</sup>, Yi L<sup>‡</sup>, Yang JQ, Zhang R, Xie Z<sup>§</sup>, **Wang HW<sup>§</sup>**. _Temporal landscape and translational regulation of A-to-I RNA editing in mouse retina development_. [BMC Biology](https://pubmed.ncbi.nlm.nih.gov/). 2024;doi:10.1186/s12915-024-01908-y.(in press) (IF=5.4, JCR Q1, 中科院大类1区小类1区)
+1. Yang LD<sup>‡</sup>, Yi L<sup>‡</sup>, Yang JQ, Zhang R, Xie Z<sup>§</sup>, **Wang HW<sup>§</sup>**. _Temporal landscape and translational regulation of A-to-I RNA editing in mouse retina development_. [BMC Biology](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-024-01908-y). 2024 May;22:106.(IF=5.4, JCR Q1, 中科院大类1区小类1区)
 
 1. Zheng XT, Wang MW, Liu ST, Chen HQ, Li YF, Yuan F, Yang LD, Qiu S, **Wang HW**, Xie Z, Xiang MQ<sup>§</sup>. _A lncRNA-encoded mitochondrial micropeptide exacerbates microglia-mediated neuroinflammation in retinal ischemia/reperfusion injury_. [Cell Death & Disease](https://pubmed.ncbi.nlm.nih.gov/36792584/). 2023 Feb 15;14(2):126. (IF=9, JCR Q1, 中科院大类1区小类2区)
 
