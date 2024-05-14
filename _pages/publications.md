@@ -44,7 +44,7 @@ author_profile: true
 
 ## Before 2017
 
-1. Gu YY<sup>‡,§</sup>, Li PF<sup>‡</sup>, Peng FD<sup>‡</sup>, Zhang MM, Zhang YY, Liang HH, Zhao WY, Qi LS, **Wang HW**, Wang CG, Guo Z<sup>§</sup>. _Autophagy-related prognostic signature for breast cancer_. [Nucleic Acids Research](https://pubmed.ncbi.nlm.nih.gov/25620657/). 2016 Mar;55(3):292-9. (IF=4.6, JCR Q2, 中科院大类2区小类2区)
+1. Gu YY<sup>‡,§</sup>, Li PF<sup>‡</sup>, Peng FD<sup>‡</sup>, Zhang MM, Zhang YY, Liang HH, Zhao WY, Qi LS, **Wang HW**, Wang CG, Guo Z<sup>§</sup>. _Autophagy-related prognostic signature for breast cancer_. [Molecular Carcinogenesis](https://pubmed.ncbi.nlm.nih.gov/25620657/). 2016 Mar;55(3):292-9. (IF=4.6, JCR Q2, 中科院大类2区小类2区)
 
 1. Qi LS, Chen LB, Li Y, Qin Y, Pan RF, Zhao WY, Gu YY, **Wang HW**, Wang RP, Chen XQ, Guo Z<sup>§</sup>. _Critical limitations of prognostic signatures based on risk scores summarized from gene expression levels: a case study for resected stage I non-small-cell lung cancer_. [Briefings in Bioinformatics](https://pubmed.ncbi.nlm.nih.gov/26254430/). 2016 Mar;17(2):233-42. (IF=9.5, JCR Q1, 中科院大类2区小类1区)
 
