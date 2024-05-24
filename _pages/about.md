@@ -18,6 +18,9 @@ My research
 **(2) Exploring the landscape of cryptic neoantigens and their applications**<br/>
 [Developing efficient approaches to identify and characterize immunogenic neoantigens, and unlocking the source of cryptic neoantigens through translation of non-canonical ORFs.]()
 
+Opening
+======
+[欢迎对生物信息学感兴趣的同学推免或报考硕士及博士研究生!](https://orfome.github.io//markdown/)
 
 Selected publications
 ======
