@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Openning"
+title: "Opening positions"
 author_profile: true
 redirect_from: 
   - /md/
