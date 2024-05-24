@@ -40,7 +40,7 @@ Grants and Funding
   <br/>National Natural Science Foundation of China(Grant No. 32270700)
 * 广东省自然科学基金/面上项目：靶向新生抗原的环状RNA疫苗分子设计和免疫应答评价
   <br/>Guangdong Basic and Applied Basic Research Foundation(Grant No. 2024A1515010103)
-* 广州市科技研究计划/市校联合项目：眼肿瘤免疫新生抗原研究
+* 广州市科技计划/市校联合项目：眼肿瘤免疫新生抗原研究
   <br/>Guangzhou Science and Technology Program(Grant No. 2024A03J0158)
 * 中山大学高校基本科研业务费/青年教师重点培育项目：非经典新生抗原预测与筛选技术研究
   <br/>Fundamental Research Funds for the Central Universities, Sun Yat-sen University(Grant No. 23qnpy163)
