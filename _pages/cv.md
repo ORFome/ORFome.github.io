@@ -27,11 +27,8 @@ Work experience
   
 Research interests
 ======
-* Translation and Translational Regulation
-  * Identification of Non-Canonical ORFs
-  * Characterization of Non-Canonical ORFs
-  * Functional Analysis of Non-Canonical ORFs
-* Non-canonical Neoantigens
+* Unraveling the mysteries of the non-canonical translatome
+* Exploring the landscape of cryptic neoantigens and their applications
 
 Publications
 ======
