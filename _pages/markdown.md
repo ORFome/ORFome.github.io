@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## 欢迎对计算生物学感兴趣的同学推免或报考硕士及博士研究生！
+## <font color="#9900FF">欢迎对计算生物学感兴趣的同学推免或报考硕士及博士研究生！</font>
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
