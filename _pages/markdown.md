@@ -9,11 +9,11 @@ redirect_from:
 
 ## <font color="#FF0000">欢迎对计算生物学感兴趣的同学推免或报考硕士及博士研究生！</font>
 
-报考专业名称：基础医学（分子医学）， 报考专业代码：1001J2
+<p align="center">报考专业名称：基础医学(分子医学)，报考专业代码：1001J2<p/>
 
 
 ![image](https://github.com/ORFome/ORFome.github.io/assets/168516543/312f8d84-e0fd-4541-8785-205cca0ab01a)<br/>
-<br/>[邀请函 || 中山大学中山眼科中心2024年优秀大学生夏令营活动来啦](https://mp.weixin.qq.com/s/elioOihuV3PzsMMH2oKsoQ)  
+<p align="center">[邀请函 || 中山大学中山眼科中心2024年优秀大学生夏令营活动来啦](https://mp.weixin.qq.com/s/elioOihuV3PzsMMH2oKsoQ)<p/> 
 
 ## [中山大学中山眼科中心简介](https://www.gzzoc.com/zxjj)  
 
