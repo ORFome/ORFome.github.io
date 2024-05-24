@@ -15,8 +15,8 @@ Associate Professor<br/>State Key Laboratory of Ophthalmology<br/>Zhongshan Opht
 
 Education and Training
 ======
-* 2015-2017: Postdoc Fellow in Basic Medicine @Xie Lab, Sun Yat-sen University
-* 2009-2014: Ph.D in Biophysics @GuoZheng Lab, Harbin Medical University
+* 2015-2017: Postdoc Fellow in Basic Medicine, Sun Yat-sen University
+* 2009-2014: Ph.D in Biophysics, Harbin Medical University
 * 2004-2009: B.S. in Biotechnology(Bioinformatics), Harbin Medical University
 
 Work experience
@@ -39,11 +39,12 @@ Please refer to the full list of publications on <a href="{{site.author.googlesc
 
 Grants and Funding
 ======
-* National Natural Science Foundation of China(32270700)
-* Guangdong Basic and Applied Basic Research Foundation(#)
-* Guangzhou Science and Technology Program(2024A03J0158)
-* Fundamental Research Funds for the Central Universities, Sun Yat-sen University(23qnpy163)
-* China Postdoctoral Science Foundation(2015M582459)
+* 国家自然科学基金面上项目，32270700，功能性微肽的发现及其在肿瘤发生中的作用研究，2023/01-2026/12，54万，主持
+  （National Natural Science Foundation of China(Grant No. 32270700)
+* Guangdong Basic and Applied Basic Research Foundation(Grant No. 2024A1515010103)
+* Guangzhou Science and Technology Program(Grant No. 2024A03J0158)
+* Fundamental Research Funds for the Central Universities, Sun Yat-sen University(Grant No. 23qnpy163)
+* China Postdoctoral Science Foundation(Grant No. 2015M582459)
 
 Mentoring Students
 ======
