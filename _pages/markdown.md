@@ -13,7 +13,7 @@ redirect_from:
 
 
 
-[邀请函 || 中山大学中山眼科中心2024年优秀大学生夏令营活动来啦](https://mp.weixin.qq.com/s/elioOihuV3PzsMMH2oKsoQ) 
+[邀请函||中山大学中山眼科中心2024年优秀大学生夏令营活动来啦](https://mp.weixin.qq.com/s/elioOihuV3PzsMMH2oKsoQ) 
 
 ## [中山大学中山眼科中心简介](https://www.gzzoc.com/zxjj)  
 
