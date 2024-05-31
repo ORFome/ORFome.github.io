@@ -19,6 +19,7 @@ redirect_from:
 
 ![image](https://github.com/ORFome/ORFome.github.io/assets/168516543/2aef7e8c-acae-4065-9a65-0daa42a1b02d)
 
-[邀请函||中山大学中山眼科中心2024年优秀大学生夏令营活动来啦](https://mp.weixin.qq.com/s/elioOihuV3PzsMMH2oKsoQ) 
+## 邀请函
+[中山大学中山眼科中心2024年优秀大学生夏令营活动来啦](https://mp.weixin.qq.com/s/elioOihuV3PzsMMH2oKsoQ) 
 
 
