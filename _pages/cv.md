@@ -36,23 +36,17 @@ Please refer to the full list of publications on <a href="{{site.author.googlesc
 
 Grants and Funding
 ======
-* 国家自然科学基金/面上项目：功能性微肽的发现及其在肿瘤发生中的作用研究
-  <br/>National Natural Science Foundation of China(Grant No. 32270700)
-* 广东省自然科学基金/面上项目：靶向新生抗原的环状RNA疫苗分子设计和免疫应答评价
-  <br/>Guangdong Basic and Applied Basic Research Foundation(Grant No. 2024A1515010103)
-* 广州市科技计划/市校联合项目：眼肿瘤免疫新生抗原研究
-  <br/>Guangzhou Science and Technology Program(Grant No. 2024A03J0158)
-* 中山大学高校基本科研业务费/青年教师重点培育项目：非经典新生抗原预测与筛选技术研究
-  <br/>Fundamental Research Funds for the Central Universities, Sun Yat-sen University(Grant No. 23qnpy163)
-* 中国博士后科学基金/面上项目：系统解析lincRNAs在细胞周期中的调控机制
-  <br/>China Postdoctoral Science Foundation(Grant No. 2015M582459)
+* National Natural Science Foundation of China(Grant No. 32270700)
+* Guangdong Basic and Applied Basic Research Foundation(Grant No. 2024A1515010103)
+* Guangzhou Science and Technology Program(Grant No. 2024A03J0158)
+* Fundamental Research Funds for the Central Universities, Sun Yat-sen University(Grant No. 23qnpy163)
 
 Mentoring Students
 ======
-* Mingzhe Xie(谢明哲), M.S. in Computer Science and Technology (2018-2021)
-* Gennong Chen(陈亘浓), M.S. in Molecular Medicine (2019-2022)
-* Liang Yi(易亮), M.S. in Molecular Medicine (2020-2023)
-* Wei Feng(冯威), M.S. in Molecular Medicine (2022-)
-* Yuewen Tang(唐月雯), M.S. in Molecular Medicine (2023-)
-* Yunhao Xu(胥云皓), M.S. in Molecular Medicine (2023-)
-* Lei Yang(杨磊), M.S. in Molecular Medicine (2024-)
+* Lei Yang, M.S. in Molecular Medicine (2024-)
+* Yuewen Tang, M.S. in Molecular Medicine (2023-)
+* Yunhao Xu, M.S. in Molecular Medicine (2023-)
+* Wei Feng, M.S. in Molecular Medicine (2022-)
+* Liang Yi, M.S. in Molecular Medicine (2020-2023)
+* Gennong Chen, M.S. in Molecular Medicine (2019-2022)
+* Mingzhe Xie, M.S. in Computer Science and Technology (2018-2021)
