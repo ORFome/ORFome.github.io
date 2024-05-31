@@ -20,7 +20,6 @@ Developing efficient approaches to identify and characterize immunogenic neoanti
 
 Opening
 ======
-[欢迎对生物信息学感兴趣的同学推免或报考硕士及博士研究生!](https://orfome.github.io//markdown/)<br/>
 Interested students are welcome to apply for the bioinformatics MS & PhD program!
 
 Selected publications
