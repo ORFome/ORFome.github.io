@@ -9,11 +9,13 @@ redirect_from:
 
 ## <font>Welcome! Open Masters, PhD & Postdoc Positions.</font>
 
-欢迎对生物信息学感兴趣的同学推免或报考硕士及博士研究生！
+1. 欢迎对生物信息学感兴趣的同学推免或报考硕士及博士研究生！
 
-报考专业名称：基础医学(分子医学)，报考专业代码：1001J2
+  报考专业名称：基础医学(分子医学)，报考专业代码：1001J2
 
 
+
+ 
 
 ## [中山大学中山眼科中心简介](https://www.gzzoc.com/zxjj)  
 
