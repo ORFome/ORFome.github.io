@@ -4,7 +4,7 @@ title: "Opening positions"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /opening.html
 ---
 
 ## <font color="#FF0000">Interested students are welcome to apply for the bioinformatics MS & PhD program!</font>
