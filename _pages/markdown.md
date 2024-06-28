@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## <font color="#FF0000">Interested students are welcome to apply for the bioinformatics MS & PhD program!</font>
+## <font>Welcome! Apply now for our Bioinformatics MS & PhD programs.</font>
 欢迎对生物信息学感兴趣的同学推免或报考硕士及博士研究生！
 
 报考专业名称：基础医学(分子医学)，报考专业代码：1001J2
