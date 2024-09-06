@@ -9,10 +9,7 @@ redirect_from:
 
 ## <font>Welcome! Open Masters, PhD & Postdoc Positions.</font>
 
-1. 欢迎对生物信息学感兴趣的同学推免或报考硕士及博士研究生！
-
-  报考专业名称：基础医学(分子医学)，报考专业代码：1001J2
-
+1. 欢迎对生物信息学感兴趣的同学推免或报考硕士及博士研究生！ 「报考专业名称：基础医学(分子医学)，报考专业代码：1001J2」 请将您的简历发送至：wanghongwei@gzzoc.com
 
 
  
