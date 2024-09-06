@@ -12,7 +12,7 @@ redirect_from:
 
 报考专业名称：基础医学(分子医学)，报考专业代码：1001J2
 
-
+请将您的简历发送至：wanghongwei@gzzoc.com
 
 ## [中山大学中山眼科中心简介](https://www.gzzoc.com/zxjj)  
 
