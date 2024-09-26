@@ -12,7 +12,7 @@ author_profile: true
 
 ## 2017-Now
 
-1. Wang Y<sup>‡</sup>, Tang YW<sup>‡</sup>, Xie Z<sup>§</sup>, **Wang HW<sup>§</sup>**. _RPFdb v3.0: An Enhanced Repository for Ribosome Profiling Data and Related Content_. [Nucleic Acids Research](https://pubmed.ncbi.nlm.nih.gov/). 2024 Sep 2;doi:10.1093/nar/gkae808.(IF=16.6, JCR Q1, 中科院2区)
+1. Wang Y<sup>‡</sup>, Tang YW<sup>‡</sup>, Xie Z<sup>§</sup>, **Wang HW<sup>§</sup>**. _RPFdb v3.0: An Enhanced Repository for Ribosome Profiling Data and Related Content_. [Nucleic Acids Research](https://pubmed.ncbi.nlm.nih.gov/39319601/). 2024 Sep 25:gkae808.Online ahead of print.(IF=16.6, JCR Q1, 中科院2区)
 
 1. Yang LD<sup>‡</sup>, Yi L<sup>‡</sup>, Yang JQ, Zhang R, Xie Z<sup>§</sup>, **Wang HW<sup>§</sup>**. _Temporal landscape and translational regulation of A-to-I RNA editing in mouse retina development_. [BMC Biology](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-024-01908-y). 2024 May 7;22(1):106. (IF=4.4, JCR Q1, 中科院1区)
 
