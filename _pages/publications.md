@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/77f11be1-2c6b-4443-b7cc-3f009fb2a652)---
 layout: archive
 title: "Publications"
 permalink: /publications/
@@ -12,7 +12,10 @@ author_profile: true
 
 ## 2017-Now
 
-1. Wang Y<sup>‡</sup>, Tang YW<sup>‡</sup>, Xie Z<sup>§</sup>, **Wang HW<sup>§</sup>**. _RPFdb v3.0: An Enhanced Repository for Ribosome Profiling Data and Related Content_. [Nucleic Acids Research](https://pubmed.ncbi.nlm.nih.gov/39319601/). 2024 Sep 25:gkae808.Online ahead of print.(IF=16.6, JCR Q1, 中科院2区)
+1. Wang Y<sup>‡</sup>, Tang YW<sup>‡</sup>, Xie Z<sup>§</sup>, **Wang HW<sup>§</sup>**. _RPFdb v3.0: An Enhanced Repository for Ribosome Profiling Data and Related Content_. [Nucleic Acids Research](https://pubmed.ncbi.nlm.nih.gov/39319601/). 2025 Jan 6;53(D1):D293–D298.(IF=16.6, JCR Q1, 中科院2区)
+
+1. Chen JJ, Li YC, Wang Y, Wang H, Yang JQ, Pan X, Zhao Y, Xu H, Jiang PL, Qian PX, **Wang HW**, Xie Z, Lei K<sup>§</sup>. _Fibrillarin homologs regulate translation in divergent cell lineages during planarian homeostasis and regeneration_. [EMBO Journal](https://pubmed.ncbi.nlm.nih.gov/39567829/). 2024 Dec;43(24):6591-6625.(IF=9.6, JCR Q1, 中科院1区)
+
 
 1. Yang LD<sup>‡</sup>, Yi L<sup>‡</sup>, Yang JQ, Zhang R, Xie Z<sup>§</sup>, **Wang HW<sup>§</sup>**. _Temporal landscape and translational regulation of A-to-I RNA editing in mouse retina development_. [BMC Biology](https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-024-01908-y). 2024 May 7;22(1):106. (IF=4.4, JCR Q1, 中科院1区)
 
