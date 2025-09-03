@@ -36,6 +36,7 @@ Please refer to the full list of publications on <a href="{{site.author.googlesc
 
 Grants and Funding
 ======
+* National Natural Science Foundation of China(Grant No. 32570785)
 * National Natural Science Foundation of China(Grant No. 32270700)
 * Guangdong Basic and Applied Basic Research Foundation(Grant No. 2024A1515010103)
 * Guangzhou Science and Technology Program(Grant No. 2024A03J0158)
@@ -43,6 +44,7 @@ Grants and Funding
 
 Mentoring Students
 ======
+* Huajing You, M.S. in Molecular Medicine (2025-)
 * Lei Yang, M.S. in Molecular Medicine (2024-)
 * Yuewen Tang, M.S. in Molecular Medicine (2023-)
 * Yunhao Xu, M.S. in Molecular Medicine (2023-)
