@@ -1,5 +1,5 @@
 ---
-permalink: /opending/
+permalink: /opening/
 title: "Opening positions"
 author_profile: true
 redirect_from: 
