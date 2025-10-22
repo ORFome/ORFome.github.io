@@ -1,18 +1,18 @@
 ---
 permalink: /opening/
-title: "Opening positions"
+title: "Openings"
 author_profile: true
 redirect_from: 
   - /md/
   - /opening.html
 ---
 
-## <font color="#FF0000">Interested students are welcome to apply for the bioinformatics MS & PhD program!</font>
-## <font color="#FF0000">欢迎对生物信息学感兴趣的同学推免或报考硕士及博士研究生！</font>
+## Interested students are welcome to apply for the bioinformatics MS & PhD program
+## 欢迎对生物信息学感兴趣的同学推免或报考硕士及博士研究生
 
 报考专业名称：基础医学(分子医学)，报考专业代码：1001J2
 
-请将您的简历发送至：wanghongwei@gzzoc.com
+请发简历至：wanghongwei@gzzoc.com
 
 ## [中山大学中山眼科中心简介](https://www.gzzoc.com/zxjj)  
 
