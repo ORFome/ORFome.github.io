@@ -1,5 +1,6 @@
 ---
 permalink: /team/
+title: /"Principal Investigator"/
 author_profile: true
 redirect_from: 
   - /md/
