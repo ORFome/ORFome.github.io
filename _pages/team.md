@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-https://github.com/wanghwlab/wanghwlab.github.io/blob/master/images/hongweiwang.jpg#:~:text=bar%2Didentity.jpg-,hongweiwang,-.jpg
+
 * Hongwei Wang(王宏伟)
 
 Current Member
