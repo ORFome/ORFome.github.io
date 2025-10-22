@@ -1,6 +1,6 @@
 ---
+title: "Principal Investigator"
 permalink: /team/
-title: /"Principal Investigator"/
 author_profile: true
 redirect_from: 
   - /md/
@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 
-Principal Investigator
-======
+
+
 * Hongwei Wang(王宏伟)
 
 Current Member
