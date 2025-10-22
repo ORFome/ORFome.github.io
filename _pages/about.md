@@ -1,26 +1,20 @@
 ---
 permalink: /
-title: "About me"
+title: "Research Interests"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I currently hold the position of Associate Professor of Bioinformatics at Zhongshan Ophthalmic Center, Sun Yat-sen University. My academic journey includes obtaining a Ph.D. in Biophysics from the College of Bioinformatics Science and Technology at Harbin Medical University. Following this, I completed a two-year postdoctoral fellowship at Zhongshan Ophthalmic Center. Subsequently, I transitioned to the role of Associate Professor funded by the Hundred Talent Program at Sun Yat-sen University.
-
-
-My research 
+ 
 ======
 **(1) Unraveling the mysteries of the non-canonical translatome**<br/>
-Systematic identification, characterization, and functional analysis of non-canonical open reading frames (ORFs), including uORFs, dORFs, lncORFs, circORFs and others.
+Systematic identification, characterization, and functional analysis of non-canonical open reading frames, including uORFs, dORFs, lncORFs, circORFs and others.
 
 **(2) Exploring the landscape of cryptic neoantigens and their applications**<br/>
 Developing efficient approaches to identify and characterize immunogenic neoantigens, and unlocking the source of cryptic neoantigens through translation of non-canonical ORFs.
 
-Opening
-======
-Interested students are welcome to apply for the bioinformatics MS & PhD program!
 
 Selected publications
 ======
