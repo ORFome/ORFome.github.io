@@ -9,7 +9,7 @@ redirect_from:
 
 ## We welcome motivated and positive individuals to join our team!
 
-## 招生 | 计算翻译组学硕士/博士研究生
+## 招生 |生物信息学硕士/博士研究生
 Recruitment | Master/PhD Students in Bioinformatics
 
 ## 研究方向 Research Focus:
