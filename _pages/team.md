@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-![image](https://github.com/wanghwlab/wanghwlab.github.io/tree/master/images/hongweiwang.jpg)
+![image](https://github.com/wanghwlab/wanghwlab.github.io/images/hongweiwang.jpg)
 * [Hongwei Wang(王宏伟)](https://wanghwlab.github.io/cv/)
 
 Current Member
