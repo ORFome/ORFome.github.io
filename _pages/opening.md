@@ -20,8 +20,8 @@ Recruitment | Master/PhD Students in Bioinformatics
 2. 熟悉或对Python/R编程有强烈学习意愿 Proficiency or strong willingness to learn programming (Python/R).
 3. 对生命科学的复杂性问题有好奇心，具备出色的解决问题的能力 Curiosity about complex biological questions and excellent problem-solving skills.
 
-## 我们诚挚邀请感兴趣的同学申请我们的硕士或博士研究生项目。
-We sincerely invite interested students to apply for our Master's or PhD programs. Please kindly email your cover letter and resume to wanghongwei@gzzoc.com
+## 诚邀感兴趣的同学申请我们的硕士或博士研究生项目
+Interested applicants please send your cover letter and resume to wanghongwei@gzzoc.com
 
 
 
