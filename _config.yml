@@ -18,10 +18,10 @@ url                      : "https://wanghwlab.github.io"
 author:
   # Biographic information
   avatar           : "hongweiwang.jpg"
-  name             : "Dr.Wang Research Group"
-  
-  employer         : "Zhongshan Ophthalmic Center"
-  location         : "Guangzhou, China"
+  name             : "Dr. Wang Research Group"
+  bio              : ""
+  employer         : "Sun Yat-sen University"
+  location         : "Zhongshan Ophthalmic Center"
 
 
 # Site Settings
