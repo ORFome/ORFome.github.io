@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Welcome motivated and positive individuals to join our team!
-We sincerely invite interested students to apply for our Master’s or PhD programs. Please kindly email your cover letter and resume to wanghongwei@gzzoc.com
+We sincerely invite interested students to apply for our Master’s or PhD programs. Please kindly email your cover letter and resume to [wanghongwei@gzzoc.com]
 
 ## 招生 |生物信息学硕士/博士研究生
 Recruitment | Master/PhD Students in Bioinformatics
