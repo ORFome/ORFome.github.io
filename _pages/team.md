@@ -10,16 +10,16 @@ redirect_from:
 
 
 
-* [Hongwei Wang(王宏伟)](https://wanghwlab.github.io/cv/)
-<br>
+* [Hongwei Wang(王宏伟)](https://wanghwlab.github.io/cv/)<br>
+
 Current Member
 ======
 * Huajing You, M.S. in Molecular Medicine (2025-)
 * Lei Yang, M.S. in Molecular Medicine (2024-)
 * Yuewen Tang, M.S. in Molecular Medicine (2023-)
 * Yunhao Xu, M.S. in Molecular Medicine (2023-)
-* Wei Feng, M.S. in Molecular Medicine (2022-)
-<br>
+* Wei Feng, M.S. in Molecular Medicine (2022-)<br>
+
 Alumni
 ======
 * Liang Yi, M.S. in Molecular Medicine (2020-2023)
