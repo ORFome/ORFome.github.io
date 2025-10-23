@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Hongwei wang(王宏伟)
-Associate Professor<br/>State Key Laboratory of Ophthalmology<br/>Zhongshan Ophthalmic Center<br/>Sun Yat-sen University<br/>Guangzhou, 510060, China<br/>Email: wanghongwei@gzzoc.com
+Associate Professor<br/>State Key Laboratory of Ophthalmology<br/>Zhongshan Ophthalmic Center<br/>Sun Yat-sen University<br/>Guangzhou, 510060, China
 
 
 Education and Training
@@ -27,18 +27,18 @@ Work experience
   
 Research interests
 ======
-* Unraveling the mysteries of the non-canonical translatome
+* Unraveling the mysteries of human non-canonical translatome
 * Exploring the landscape of cryptic neoantigens and their applications
 
 Publications
 ======
 Please refer to the full list of publications on <a href="{{site.author.googlescholar}}">my GoogleScholar profile</a>.
 
-Grants and Funding
+Ongoing grants
 ======
-* National Natural Science Foundation of China(Grant No. 32570785)
-* National Natural Science Foundation of China(Grant No. 32270700)
-* Guangdong Basic and Applied Basic Research Foundation(Grant No. 2024A1515010103)
-* Guangzhou Science and Technology Program(Grant No. 2024A03J0158)
-* Fundamental Research Funds for the Central Universities, Sun Yat-sen University(Grant No. 23qnpy163)
+* National Natural Science Foundation of China(32570785)
+* National Natural Science Foundation of China(32270700)
+* Guangdong Basic and Applied Basic Research Foundation(2024A1515010103)
+* Guangzhou Science and Technology Program(2024A03J0158)
+
 
